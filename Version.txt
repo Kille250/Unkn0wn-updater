@@ -1,2 +1,2 @@
-Version: 0.3;
-Latest: https://github.com/Kille250/Unkn0wn-updater/releases/download/0.2/Version.0.2.zip
+Version: 1.1;
+Latest: https://github.com/Kille250/Unkn0wn-updater/releases/download/1.2/Discord.bot.1.1.zip
