@@ -1,2 +1,2 @@
-Version: 1.1;
-Latest: https://github.com/Kille250/Unkn0wn-updater/releases/download/1.1/Diobot.V1.1.zip
+Version: 1.2;
+Latest: https://github.com/Kille250/Unkn0wn-updater/releases/download/1.2/discord.bot.zip
