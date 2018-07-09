@@ -1,2 +1,2 @@
-Version: 1.2;
-Latest: https://github.com/Kille250/Unkn0wn-updater/releases/download/1.2/Discordbot.V1.2.zip
+Version: 1.3;
+Latest: https://github.com/Kille250/Unkn0wn-updater/releases/download/1.3/V1.3.zip
